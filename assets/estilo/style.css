@@ -239,7 +239,8 @@ body {
         text-align: center;
         top: 50px;
         left: 0;
-        background-color: rgba(38, 2, 55, 0.8);
+        color: #fff;
+        background-color: rgba(247, 247, 247, 0.8);
         width: 100%;
         position: absolute;
     }
@@ -247,6 +248,7 @@ body {
     .navbar-menu li {
         margin-right: 0;
         margin-bottom: 10px;
+        color: #fff;
     }
 
     .navbar-toggle {
